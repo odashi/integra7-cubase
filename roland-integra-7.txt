@@ -1,7 +1,7 @@
 [cubase parse file]
 [parser version 0001]
 
-[creators first name] https://twitter.com/odashi
+[creators first name] https://twitter.com/odashi_t
 [creators last name] yus.takara@gmail.com
 [device manufacturer] ROLAND
 [device name] INTEGRA-7
